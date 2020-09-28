@@ -1,0 +1,8 @@
+hello Gautam
+i have given 2 files one with simple cnn algorithm and another with hypertuned model.
+I have use keras-tuner to hypertune the model.
+note:
+    1.prefer running the file in google colaborator with runtime as GPU
+    2.run it in same sequence as they are in
+
+I have given comments to each and every line of code please do check
