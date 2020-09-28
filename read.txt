@@ -6,3 +6,7 @@ note:
     2.run it in same sequence as they are in
 
 I have given comments to each and every line of code please do check
+
+about the dataset
+i have loaded the fashoin_mnist dataset present in the keras annd used cnn algorithm to classify the images
+
