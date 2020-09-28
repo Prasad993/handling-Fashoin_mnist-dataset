@@ -1,1 +1,1 @@
-# handling-Fashoin_mnist-dataset
+Please check read.txt
